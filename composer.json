@@ -1,0 +1,19 @@
+{
+  "name": "isaacghorbani/slack",
+  "description": "packege for my test case in irantom",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Isaacghorbani",
+      "email": "isaacghorbani@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Isaacghorbani\\Slack\\": "src/"
+    }
+    }
+}
